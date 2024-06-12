@@ -33,19 +33,6 @@ The paper introduces several key contributions to protein language modeling:
 - [Model](https://huggingface.co/AI4Protein/ProSST-2048)
 - [Code](https://github.com/ai4protein/ProSST)
 
-
-## Details
-
-intro text here.
-
-<!-- Insert a pipeline of your algorithm here if got one -->
-<div align="center">
-    <a href="https://"><img width="1000px" height="auto" src="https://github.com/openmedlab/sampleProject/blob/main/diagram_sample.png"></a>
-</div>
-
-More intro text here.
-
-
 ## Dataset Links
 
 **ProteinGYM Benchmark** 
